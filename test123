@@ -1,0 +1,748 @@
+[02-Jan-2021 17:52:05 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jan-2021 18:02:05 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jan-2021 18:11:04 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 01:08:17 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 01:08:19 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 01:10:12 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 01:10:15 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 01:14:25 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 01:19:50 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 02:10:23 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 02:18:15 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 02:31:51 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 02:53:04 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 03:18:49 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:07:42 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:15:03 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:33 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:33 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:34 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:35 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:36 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:36 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:55 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:56 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:57 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:57 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:22:57 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:25:14 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:25:40 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:26:39 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:26:43 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:26:46 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:27:03 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:27:16 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:27:16 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:27:25 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:28:05 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: The stream or file "/var/www/html/tms/framework/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:108
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php(39): Monolog\Handler\StreamHandler->write(Array)
+#1 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(344): Monolog\Handler\AbstractProcessingHandler->handle(Array)
+#2 /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Logger.php(777): Monolog\Logger->addRecord(600, 'Unable to creat...', Array)
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(176): Monolog\Logger->emergency('Unable to creat...', Array)
+#4 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Log/Logger.php(51): Illuminate\Log\Logger->writeLog('emergency', 'Unable to creat...', Arr in /var/www/html/tms/framework/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 108
+[03-Jan-2021 04:28:15 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:28:35 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:28:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:28:38 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:33:19 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:33:28 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:36:18 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:36:22 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:37:30 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:40:08 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:40:09 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:42:36 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:42:57 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:44:37 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:44:39 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:44:45 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 04:45:18 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:45:31 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:45:33 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:45:57 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:46:02 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:44 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:45 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:46 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:46 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:47 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:48 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:48 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:48 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:49 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:49 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:49 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:50 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:50 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:50 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:51 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:51 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:51 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:51 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:52 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:52 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:52 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:52 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:53 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:53 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:49:53 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:50:04 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:50:58 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:50:59 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:50:59 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:51:00 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:51:00 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:51:00 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:51:00 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:51:00 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:51:01 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:51:01 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:51:24 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 04:53:26 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 05:01:04 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 05:01:04 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 05:01:06 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 05:05:55 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 05:06:52 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 05:06:55 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 05:06:55 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[03-Jan-2021 05:09:25 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 05:09:44 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 05:09:55 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 05:10:05 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[03-Jan-2021 05:13:14 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/var/www/html/tms/framework/storage/framework/views/36b904a66886879cd549bf7223191d8a4e175668.php): failed to open stream: Permission denied in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/var/www/html/t...', 122, Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/var/www/html/t...', '<?php $__env->s...', 0)
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/var/www/html/t...', '<?php $__env->s...')
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/var/www/html/t...')
+#4 /var/www/html/tms/framework/vendor/larav in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[04-Jan-2021 06:44:00 UTC] PHP Warning:  require_once(/var/www/html/tms/public/index.php): failed to open stream: No such file or directory in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:44:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/html/tms/public/index.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:44:25 UTC] PHP Warning:  require_once(/var/www/html/tms/public/index.php): failed to open stream: No such file or directory in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:44:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/html/tms/public/index.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:47:38 UTC] PHP Warning:  require_once(/var/www/html/tms/var/www/html/tms/framework/storage/app/public/index.php): failed to open stream: No such file or directory in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:47:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/html/tms/var/www/html/tms/framework/storage/app/public/index.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:47:41 UTC] PHP Warning:  require_once(/var/www/html/tms/var/www/html/tms/framework/storage/app/public/index.php): failed to open stream: No such file or directory in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:47:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/html/tms/var/www/html/tms/framework/storage/app/public/index.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:49:29 UTC] PHP Warning:  require_once(/var/www/html/tms/tms/framework/storage/app/public/index.php): failed to open stream: No such file or directory in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:49:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/html/tms/tms/framework/storage/app/public/index.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 06:50:03 UTC] PHP Warning:  require(/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php): failed to open stream: No such file or directory in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 06:50:03 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:02:55 UTC] PHP Warning:  require(/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php): failed to open stream: No such file or directory in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:02:55 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:03:01 UTC] PHP Warning:  require(/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php): failed to open stream: No such file or directory in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:03:01 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:03:06 UTC] PHP Warning:  require(/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php): failed to open stream: No such file or directory in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:03:06 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:03:25 UTC] PHP Warning:  require(/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php): failed to open stream: No such file or directory in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:03:25 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:07:07 UTC] PHP Warning:  require(/var/www/html/tms/framework/storage/app/public/var/www/html/tms/framework/bootstrap/autoload.php): failed to open stream: No such file or directory in /var/www/html/tms/framework/storage/app/public/index.php on line 5
+[04-Jan-2021 07:07:07 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/tms/framework/storage/app/public/var/www/html/tms/framework/bootstrap/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/framework/storage/app/public/index.php on line 5
+[04-Jan-2021 07:09:14 UTC] PHP Warning:  require(/var/www/html/tms/framework/storage/app/public/var/www/html/tms/framework/bootstrap/autoload.php): failed to open stream: No such file or directory in /var/www/html/tms/framework/storage/app/public/index.php on line 5
+[04-Jan-2021 07:09:14 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/tms/framework/storage/app/public/var/www/html/tms/framework/bootstrap/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/framework/storage/app/public/index.php on line 5
+[04-Jan-2021 07:10:55 UTC] PHP Warning:  require(/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php): failed to open stream: No such file or directory in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:10:55 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/tms/framework/storage/app/public/framework/bootstrap/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/framework/storage/app/public/index.php on line 4
+[04-Jan-2021 07:17:19 UTC] PHP Warning:  require_once(/var/www/html/tms/framework/storage/app/public/index.php): failed to open stream: No such file or directory in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 07:17:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/html/tms/framework/storage/app/public/index.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/tms/index.php on line 21
+[04-Jan-2021 13:02:17 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[04-Jan-2021 13:02:23 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[04-Jan-2021 13:02:37 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\H in /var/www/html/tms/framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
